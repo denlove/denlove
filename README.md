@@ -1,5 +1,5 @@
-# 🍑 Hi there!
-What's up! I'm a front-end web developer. I will be glad to cooperate :)
+# 🍑 Howdy, folks!
+What's up! I'm a front-end web developer. I am glad for the successful cooperation. :)
 
 <div align='center'>
   <img src="src/assets/7.png" width="40" height="40">
