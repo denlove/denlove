@@ -1,7 +1,20 @@
 # 🍑 Howdy, folks!
-What's up! I'm a front-end web developer. I am glad for the successful cooperation. :)
 
-<div align='center'>
+### 🏕️ What's up!
+
+— Good to see you. It's been awhile...
+
+### 👋 My name is Denis Bronzov. 
+
+— Just a _web cowboy_ 🤠 and _Front-end_ web 🕸 developer 🧑‍💻.
+
+### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
+
+— Owner 💵 ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
+
+### 🎖️ My tech stack:
+
+<div align='left'>
   <img src="src/assets/7.png" width="40" height="40">
   <img src="src/assets/16.png" width="40" height="40">
   <img src="src/assets/6.png" width="40" height="40">
