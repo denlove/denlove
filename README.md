@@ -1,5 +1,5 @@
 <div>
-    <h1>🍑 Howdy, folks!<img src='./src/assets/aminated1.png' width='40'></h1>
+    <h1><img src='./src/assets/aminated1.png' width='40'> Howdy, folks O_o</h1>
 </div>
 
 ### 🏕️ What's up!
@@ -14,9 +14,7 @@
 
 — Owner 💵 ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
-<br>
-
-## 🧸 Hard skills
+<h1><img src='./src/assets/animated3.png' width='50'> Hard skills</h1>
 
 ### 🎖️ My tech stack:
 
