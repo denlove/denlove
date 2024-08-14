@@ -1,5 +1,5 @@
 <div>
-    <h1><img src='./src/assets/aminated1.png' width='40'> Howdy, folks O_o</h1>
+    <h1><img src='./src/assets/aminated1.png' width='40'>Howdy, folks O_o</h1>
 </div>
 
 ### 🏕️ What's up!
