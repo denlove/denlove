@@ -1,5 +1,5 @@
 <div>
-    <h1>🍑 Howdy, folks!<img src='./src/assets/aminated1.png' width='70'></h1>
+    <h1>🍑 Howdy, folks!<img src='./src/assets/aminated1.png' width='40'></h1>
 </div>
 
 ### 🏕️ What's up!
@@ -13,6 +13,10 @@
 ### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
 
 — Owner 💵 ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
+
+<br>
+
+## 🧸 Hard skills
 
 ### 🎖️ My tech stack:
 
@@ -33,4 +37,10 @@
   <img src="src/assets/12.png" width="40" height="40">
   <img src="src/assets/15.png" width="40" height="40">
   <img src="src/assets/11.png" width="40" height="40">
+</div>
+
+### 🎀 Achievements
+
+<div>
+    <img src='./src/assets/animated2.png' width='150'>
 </div>
