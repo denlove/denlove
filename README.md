@@ -1,10 +1,12 @@
-# 🍑 Howdy, folks!
+<div>
+    <h1>🍑 Howdy, folks!<img src='./src/assets/aminated1.png' width='70'></h1>
+</div>
 
 ### 🏕️ What's up!
 
 — Good to see you. It's been awhile...
 
-### 👋 My name is Denis Bronzov. 
+### 👋 My name is Denis Bronzov.
 
 — Just a _web cowboy_ 🤠 and _Front-end_ web 🕸 developer 🧑‍💻.
 
@@ -32,4 +34,3 @@
   <img src="src/assets/15.png" width="40" height="40">
   <img src="src/assets/11.png" width="40" height="40">
 </div>
-
