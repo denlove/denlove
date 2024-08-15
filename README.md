@@ -12,7 +12,7 @@
 
 ### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
 
-— Owner 💵 ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
+— Owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
 <h1><img src='./src/assets/animated3.png' width='50'> Hard skills</h1>
 
