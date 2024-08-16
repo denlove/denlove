@@ -40,5 +40,5 @@
 ### 🎀 Achievements
 
 <div>
-    <img src='./src/assets/animated2.png' width='150'>
+    <img src='./src/assets/animated2.png' width='170'>
 </div>
