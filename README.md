@@ -8,7 +8,7 @@
 
 ### 👋 My name is Denis Bronzov.
 
-— Just a _web cowboy_ 🤠 and _Front-end_ web 🕸 developer 🧑‍💻.
+— Just a _web aesthetics lawyer_ 🎁 and _Front-end_ web 🕸 developer 🧑‍💻.
 
 ### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
 
