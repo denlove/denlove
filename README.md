@@ -1,6 +1,4 @@
-<div>
-    <h1><img src='https://github.com/user-attachments/assets/3d9e749f-99ff-401f-8d01-78bf9bca31e2' width='40'><i>It's showtime, folks</i></h1>
-</div>
+<h1><img src='https://github.com/user-attachments/assets/3d9e749f-99ff-401f-8d01-78bf9bca31e2' width='40'><i>It's showtime, folks</i></h1>
 
 ### 🏕️ What's up!
 
@@ -13,6 +11,14 @@
 ### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
 
 — Owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
+
+<h1><img src='https://github.com/user-attachments/assets/a51b3875-5655-4a75-8e72-698c1f05c2c8' width='40'><i> My stats</i></h1>
+
+<p><img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=500&card_height=165" alt="GitHub Streak" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=500" alt="denlove" /></p><br>
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&margin-w=15&margin-h=15&row=2&column=4" alt="denlove" /></p>
 
 <h1><img src='./src/assets/animated3.png' width='50'><i>Hard skills</i></h1>
 
@@ -42,3 +48,5 @@
 <div>
     <img src='./src/assets/animated2.png' width='170'>
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=denlove&label=Profile%20views&color=000000&style=flat" alt="denlove" /> </p>
