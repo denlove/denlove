@@ -1,5 +1,5 @@
 <div>
-    <h1><img src='./src/assets/aminated1.png' width='40'><i>It's showtime, folks</i></h1>
+    <h1><img src='https://github.com/user-attachments/assets/093fdfb4-fef0-4d7f-9ec3-1c12eb9fe413' width='50'><i>It's showtime, folks</i></h1>
 </div>
 
 ### 🏕️ What's up!
