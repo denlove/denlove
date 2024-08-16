@@ -1,5 +1,5 @@
 <div>
-    <h1><img src='./src/assets/aminated1.png' width='40'>Howdy, folks &nbsp; O‿o</h1>
+    <h1><img src='./src/assets/aminated1.png' width='40'><i>It's showtime, folks</i></h1>
 </div>
 
 ### 🏕️ What's up!
@@ -14,7 +14,7 @@
 
 — Owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
-<h1><img src='./src/assets/animated3.png' width='50'> Hard skills</h1>
+<h1><img src='./src/assets/animated3.png' width='50'><i>Hard skills</i></h1>
 
 ### 🎖️ My tech stack:
 
