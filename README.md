@@ -49,4 +49,4 @@
     <img src='./src/assets/animated2.png' width='170'>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denlove&label=Profile%20views&color=000000&style=flat" alt="denlove" /> </p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=denlove&label=Profile%20views&color=000000&style=flat" alt="denlove" /></p>
