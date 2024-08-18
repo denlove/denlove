@@ -14,11 +14,11 @@
 
 <h1><img src='https://github.com/user-attachments/assets/a51b3875-5655-4a75-8e72-698c1f05c2c8' width='40'><i> My stats</i></h1>
 
-<p><img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=500&card_height=165" alt="GitHub Streak" /></p>
+<p><img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=450&card_height=165" alt="GitHub Streak" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=500" alt="denlove" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=450" alt="denlove" /></p><br>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&margin-w=15&margin-h=15&row=2&column=4" alt="denlove" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&margin-w=25&margin-h=25&row=3&column=3" alt="denlove" /></p>
 
 <h1><img src='./src/assets/animated3.png' width='50'><i>Hard skills</i></h1>
 
