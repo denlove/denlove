@@ -8,7 +8,7 @@
 
 — Just a _web aesthetics lawyer_ 🎁 and _Front-end_ web 🕸 developer 🧑‍💻.
 
-### 💻 I am currently working for [MyJS Web Docs](https://github.com/mjdocs).
+### 💻 I am currently working for _[MyJS Web Docs](https://github.com/mjdocs)._
 
 — Owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
