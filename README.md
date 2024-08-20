@@ -8,9 +8,9 @@
 
 — Just a _web aesthetics lawyer_ 🎁 and _Front-end_ web 🕸 developer 🧑‍💻.
 
-### 💻 I am currently working for _[MyJS Web Docs](https://github.com/mjdocs)._
+### 💻 I am owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
-— Owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
+— Currently working on a _[MyJS Web Docs](https://github.com/mjdocs)_ — ECMAScript spec _documentation_
 
 <h1><img src='./src/assets/anim2.png' width='70'><i> Total stats</i></h1>
 
@@ -47,8 +47,8 @@
     <img src='./src/assets/achv0.png' width='170'>
     <img src='./src/assets/achv1.png' width='170'>
     <img src='./src/assets/achv2.png' width='170'>
-    <img src='./src/assets/achv3.png' width='170'>
     <img src='./src/assets/achv4.png' width='170'>
-</div>
+    <img src='./src/assets/achv3.png' width='170'>
+</div><br>
 
 <p align="right"><img src="https://komarev.com/ghpvc/?username=denlove&label=Profile%20views&color=000000&style=flat" alt="denlove" /></p>
