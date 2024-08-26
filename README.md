@@ -16,11 +16,18 @@
 
 <h1><img src='./src/assets/anim2.png' width='70'><i> Total stats</i></h1>
 
-<p><img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=400&card_height=165" alt="GitHub Streak" /></p>
+<div>
+  <img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=400&card_height=195" alt="GitHub Streak" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=denlove&show_icons=true&theme=github_dark&border_radius=10&line-height=10" />
+</div><br />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=400" alt="denlove" /></p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=400" alt="denlove" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&margin-w=10&row=1&column=4&title=Commits,PR,Issues,Followers" alt="denlove" />
+</div>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&margin-w=25&margin-h=25&row=3&column=3" alt="denlove" /></p>
 
 <h1><img src='./src/assets/anim4.png' width='70'><i> Tech stack</i></h1>
 
