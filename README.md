@@ -1,6 +1,6 @@
-<img align='right' width='30%' src='src/assets/anim6.png' />
-
 <h1><img src='./src/assets/anim1.png' width='70'><i>It's showtime, folks</i><img src='./src/assets/anim3.png' width='50'></h1>
+
+<img align='right' width='25%' src='src/assets/anim6.png' />
 
 ![Typing SVG](<https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=15&pause=100&color=00A2F7&vCenter=true&random=true&width=435&height=15&lines=%E2%9E%9C+Environment+Record;%E2%9E%9C+Abstract+Operation;%E2%9E%9C+globalThis;%E2%9E%9C+Variable+Statement;%E2%9E%9C+Formal+Parameters;%E2%9E%9C+Execution+Context+Stack;%E2%9E%9C+Runtime+Semantics;%E2%9E%9C+ReturnIfAbrupt();%E2%9E%9C+CreateImmutableBinding();%E2%9E%9C+Unicode+Code+Point>)
 
