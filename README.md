@@ -1,3 +1,5 @@
+<img align='right' width='30%' src='src/assets/anim6.png' />
+
 <h1><img src='./src/assets/anim1.png' width='70'><i>It's showtime, folks</i><img src='./src/assets/anim3.png' width='50'></h1>
 
 ![Typing SVG](<https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=15&pause=100&color=00A2F7&vCenter=true&random=true&width=435&height=15&lines=%E2%9E%9C+Environment+Record;%E2%9E%9C+Abstract+Operation;%E2%9E%9C+globalThis;%E2%9E%9C+Variable+Statement;%E2%9E%9C+Formal+Parameters;%E2%9E%9C+Execution+Context+Stack;%E2%9E%9C+Runtime+Semantics;%E2%9E%9C+ReturnIfAbrupt();%E2%9E%9C+CreateImmutableBinding();%E2%9E%9C+Unicode+Code+Point>)
@@ -8,7 +10,7 @@
 
 ### 👋 My name is Denis Bronzov.
 
-— Just a _web aesthetics lawyer_ 🎁 and _Front-end_ web 🕸 developer 🧑‍💻.
+— Just a _web aesthetics lawyer_ 🎁 and \_freelance Front-end web 🕸 _developer_ 🧑‍💻.
 
 ### 💻 I am owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
@@ -16,10 +18,12 @@
 
 <h1><img src='./src/assets/anim2.png' width='70'><i> Total stats</i></h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=denlove&show_icons=true&theme=github_dark&border_radius=10&line-height=10&card_width=300" />
-  <img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=437&card_height=195" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=437" alt="denlove" />
-  <img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&&row=1&column=4&title=Commits,PR,Issues,Followers&no-frame=true" alt="denlove" />
+<div>
+<img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=350&card_height=195" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=denlove&show_icons=true&theme=github_dark&border_radius=10&line-height=10&card_width=150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=350" alt="denlove" />
+<img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&&row=1&column=4&title=Commits,PR,Issues,Followers&no-frame=true" alt="denlove" />
+</div>
 
 <h1><img src='./src/assets/anim4.png' width='70'><i> Tech stack</i></h1>
 
@@ -38,6 +42,8 @@
   <img src="src/assets/10.png" width="40" height="40">
   <img src="src/assets/13.png" width="40" height="40">
   <img src="src/assets/12.png" width="40" height="40">
+  <img src="src/assets/17.png" width="40" height="40">
+  <img src="src/assets/18.png" height="40">
   <img src="src/assets/15.png" width="40" height="40">
   <img src="src/assets/11.png" width="40" height="40">
 </div><br>
