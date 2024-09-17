@@ -10,7 +10,7 @@
 
 ### 👋 My name is Denis Bronzov.
 
-— Just a _web aesthetics lawyer_ 🎁 and _freelance Front-end web_ 🕸 _developer_ 🧑‍💻.
+— Just a _aesthetic_ 🎁 _Front-end web_ 🕸 _developer_ 🧑‍💻.
 
 ### 💻 I am owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
 
