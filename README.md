@@ -8,13 +8,7 @@
 
 — Good to see you. It's been awhile...
 
-### 👋 My name is Denis Bronzov.
-
-— Just a _aesthetic_ 🎁 _Front-end web_ 🕸 _developer_ 🧑‍💻.
-
-### 💻 I am owner ✨ of [_MyJS Web Docs_](https://github.com/mjdocs).
-
-— Currently working on a _[MyJS Web Docs](https://github.com/mjdocs)_ — ECMAScript spec _documentation_
+### 👋 My name is Denis.
 
 <h1><img src='./src/assets/anim2.png' width='70'><i> Total stats</i></h1>
 
