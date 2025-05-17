@@ -10,12 +10,13 @@
 
 ### 👋 My name is Denis.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=350" alt="denlove" />
+
 <h1><img src='./src/assets/anim2.png' width='70'><i> Total stats</i></h1>
 
 <div>
 <img src="https://streak-stats.demolab.com?user=denlove&theme=github-dark-blue&border_radius=10&card_width=350&card_height=195" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=denlove&show_icons=true&theme=github_dark&border_radius=10&line-height=10&card_width=150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=denlove&show_icons=true&theme=github_dark&locale=en&layout=compact&border_radius=10&card_width=350" alt="denlove" />
 <img src="https://github-profile-trophy.vercel.app/?username=denlove&theme=juicyfresh&&row=1&column=4&title=Commits,PR,Issues,Followers&no-frame=true" alt="denlove" />
 </div>
 
